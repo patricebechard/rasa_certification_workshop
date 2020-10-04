@@ -126,3 +126,10 @@ priorities :
 1. EmbeddingPolicy, KerasPolicym TEDPolicy
 
 Rule-based policiues have higher priority than ML-based policies
+
+## Resources
+* Rasa Masterclass Youtube Playlist : https://www.youtube.com/watch?v=rlAQWbhwqLA&list=PL75e0qA87dlHQny7z43NduZHPo6qd-cRc
+* L3-AI Conference Youtube Playlist : https://www.youtube.com/watch?v=bAkToyQhWyo&list=PL75e0qA87dlGP51yZ0dyNup-vwu0Rlv86&ab_channel=Rasa
+* Rasa Docs : https://rasa.com/docs/
+* Building Assistants Tutorial : https://rasa.com/docs/rasa/chitchat-faqs#building-assistants
+* NLP for Developers Youtube Playlist : https://www.youtube.com/watch?v=fqwrGzsYAi8&list=PL75e0qA87dlFJiNMeKltWImhQxfFwaxvv

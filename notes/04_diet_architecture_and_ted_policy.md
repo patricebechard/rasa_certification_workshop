@@ -121,3 +121,8 @@ From zero to production ready deployment in under 5 minutes
 * create a vm
 * curl -s http://get-rasa-x.rasa.com | sudo bash
 this will run in about 4 mins. This will install k3s, helm and a helm chart with everything
+
+## Resources
+* TED Policy Blog Post : https://blog.rasa.com/unpacking-the-ted-policy-in-rasa-open-source/
+* Rasa Algorithm Whiteboard Youtube Playlist : https://www.youtube.com/watch?v=wWNMST6t1TA&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb&ab_channel=Rasa
+* DIET Classifier Blog Post : https://blog.rasa.com/introducing-dual-intent-and-entity-transformer-diet-state-of-the-art-performance-on-a-lightweight-architecture/

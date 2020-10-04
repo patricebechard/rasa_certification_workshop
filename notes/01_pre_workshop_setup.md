@@ -72,3 +72,7 @@ Later in the workshop, we will need to connect our assitant to the outside world
 * Set up telegram account
 * Login and be ready to connect our Rasa Assistant to it.
 
+
+
+## Resources :
+* Rasa Financial Demo : https://github.com/RasaHQ/financial-demo 
